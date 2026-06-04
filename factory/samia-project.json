@@ -1,0 +1,15 @@
+{
+	"name": "samia-project",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a82a6e3e-93d5-428d-b11e-0bc9bfe3001a",
+		"tenantId": "2b32b1fa-7899-482e-a6de-be99c0ff5516"
+	}
+}
